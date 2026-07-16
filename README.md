@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="OpenPaper.png" alt="OpenResearch — Universal Research Paper" width="480">
-</p>
 
 <h1 align="center">OpenResearch</h1>
 
 <p align="center">
   <strong>The Universal Research Paper Standard</strong><br>
   <em>We ❤️ research… but research papers are a pain.</em>
+</p>
+
+<p align="center">
+  <img src="openresearch-mac@3x.png" alt="OpenResearch on macOS" width="220">
 </p>
 
 <p align="center">
@@ -20,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="openresearch-mac@3x.png" alt="OpenResearch on macOS" width="720">
+  <img src="screenshot.png" alt="OpenResearch on macOS" width="720">
 </p>
 
 ## ✨ Meet OpenResearch
