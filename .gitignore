@@ -3,3 +3,6 @@
 Packages/
 .swiftpm/
 specification.md
+
+.venv/
+__pycache__/

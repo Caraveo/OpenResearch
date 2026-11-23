@@ -1,0 +1,8 @@
+#!/bin/sh
+set -eu
+project=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
+export PYTHONPATH="$project${PYTHONPATH:+:$PYTHONPATH}"
+if [ -x "$project/.venv/bin/python" ]; then
+    exec "$project/.venv/bin/python" -m openresearch_qt developer "$@"
+fi
+exec python3 -m openresearch_qt developer "$@"
